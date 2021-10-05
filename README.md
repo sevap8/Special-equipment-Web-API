@@ -4,3 +4,10 @@
 ##### • Serialized models to create, display, modify - serializers.py
 ##### • CRUD operations for the "Device" entity - resources.py
 ##### • URL - urls.py
+
+##### -The application has implemented four requests:
+##### POST -
+##### GET -
+##### GET_Id -
+##### PUT -
+##### PUT/DELETE -
