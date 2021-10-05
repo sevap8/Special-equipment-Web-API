@@ -6,8 +6,8 @@
 ##### • URL - urls.py
 
 ##### -The application has implemented four requests:
-##### POST -
-##### GET -
-##### GET_Id -
-##### PUT -
-##### PUT/DELETE -
+#####     POST -
+#####     GET -
+#####     GET_Id -
+#####     PUT -
+#####     PUT/DELETE -
